@@ -1,4 +1,16 @@
-DATE (e.g. 20-Nov-2021)
+DATE (5-Nov-2021)
+=====================================================
+What did I learn today? What is the "big idea"?
+Today I learned how to start beginner code in HTML from Prem
+What challenges did I encounter?
+Since the language was brand new for me, I had no idea what was going on
+How has what I've learned impacted my thinking?
+Learning HTML has caused me to develop a want to learn HTML now.
+
+
+
+
+DATE (3-Nov-2021)
 =====================================================
 What did I learn today? What is the "big idea"?
 I learned what each person's role is in our group and I understand our objective and what we need to complete by the deadline we set.
