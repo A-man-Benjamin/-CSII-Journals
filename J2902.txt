@@ -1,3 +1,12 @@
+DATE (e.g. 20-Nov-2021)
+=====================================================
+What did I learn today? What is the "big idea"?
+I learned the differences in the different types of branches used by developers 
+What challenges did I encounter?
+We had a challenge deciding which one would be the best for us to use.
+How has what I've learned impacted my thinking?
+this has impacted my thinking about how to split up the work among the developers.
+
 DATE (11-Nov-2021)
 =====================================================
 What did I learn today? What is the "big idea"?
