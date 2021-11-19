@@ -1,4 +1,21 @@
-DATE (e.g. 20-Nov-2021)
+DATE (19-Nov-2021)
+=====================================================
+What did I learn today? What is the "big idea"?
+
+What challenges did I encounter?
+
+How has what I've learned impacted my thinking?
+
+DATE (17-Nov-2021)
+=====================================================
+What did I learn today? What is the "big idea"?
+I learned some more about the UI that's going on in our code and solved some problems relating to unique class scenarios
+What challenges did I encounter?
+We had a challenge figuring out how to add certain information about prerequisites and other tasks similar to that
+How has what I've learned impacted my thinking?
+IT has helped me think on a brader level trying to imagine what a user would like to see.
+
+DATE 20-Nov-2021)
 =====================================================
 What did I learn today? What is the "big idea"?
 I learned the differences in the different types of branches used by developers 
