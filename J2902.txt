@@ -1,3 +1,11 @@
+DATE (30-Nov-2021)
+=====================================================
+What did I learn today? What is the "big idea"?
+I learned how to develop an installation page which helps people download the application
+What challenges did I encounter?
+We encountered a challenenge when figuring out how which branch to make the stable branch and what to make as our branching strategy
+How has what I've learned impacted my thinking?
+This has taught me how to be more descriptive about how to deliver instructions to people.
 DATE (19-Nov-2021)
 =====================================================
 What did I learn today? What is the "big idea"?
