@@ -1,3 +1,12 @@
+DATE (2-Dec-2021)
+=====================================================
+What did I learn today? What is the "big idea"?
+Today i learned how to incorporate informaion into emails so that people can be sent their schedules after making it.
+What challenges did I encounter?
+I encountered a challenge when I was trying to understand the coding behind it.
+How has what I've learned impacted my thinking?
+It has taught me how to think more openly and out of the box to think of new ideas.
+
 DATE (30-Nov-2021)
 =====================================================
 What did I learn today? What is the "big idea"?
@@ -23,7 +32,7 @@ We had a challenge figuring out how to add certain information about prerequisit
 How has what I've learned impacted my thinking?
 IT has helped me think on a brader level trying to imagine what a user would like to see.
 
-DATE 20-Nov-2021)
+DATE (13-Nov-2021)
 =====================================================
 What did I learn today? What is the "big idea"?
 I learned the differences in the different types of branches used by developers 
@@ -49,7 +58,6 @@ What challenges did I encounter?
 Since the language was brand new for me, I had no idea what was going on
 How has what I've learned impacted my thinking?
 Learning HTML has caused me to develop a want to learn HTML now.
-
 
 
 
